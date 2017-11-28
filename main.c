@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+void test02()
+{
+    int x
+    float y
+}
 void main()
 {
 printf("m4 znby :')");
