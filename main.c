@@ -1,19 +1,17 @@
 #include <stdio.h>
 #include <stdlib.h>
-<<<<<<< HEAD
 
 void test()
 {
     gets();
     printf(error);
     scanf();
-
+}
 void test02()
 {
     int x
     float y
 
-=======
 void()
 {
     stuct x;
@@ -21,7 +19,6 @@ void()
     z=x+y
     sin(x);
     x=log;
->>>>>>> 336c1cc8ea420f6fa9900645a453c9d99b608e28
 }
 void main()
 {
