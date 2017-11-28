@@ -3,5 +3,5 @@
 
 void main()
 {
-printf("hackerman");
+printf("m4 znby :')");
 }
